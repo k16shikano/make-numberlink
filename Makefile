@@ -1,4 +1,4 @@
-L=10
+L=20
 SHELL = /bin/bash
 
 all:
